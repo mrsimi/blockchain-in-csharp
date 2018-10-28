@@ -1,0 +1,11 @@
+C:\Users\Simi\source\repos\blockchain_\blockchain_\bin\Debug\netcoreapp2.0\blockchain_.deps.json
+C:\Users\Simi\source\repos\blockchain_\blockchain_\bin\Debug\netcoreapp2.0\blockchain_.runtimeconfig.json
+C:\Users\Simi\source\repos\blockchain_\blockchain_\bin\Debug\netcoreapp2.0\blockchain_.runtimeconfig.dev.json
+C:\Users\Simi\source\repos\blockchain_\blockchain_\bin\Debug\netcoreapp2.0\blockchain_.dll
+C:\Users\Simi\source\repos\blockchain_\blockchain_\bin\Debug\netcoreapp2.0\blockchain_.pdb
+C:\Users\Simi\source\repos\blockchain_\blockchain_\obj\Debug\netcoreapp2.0\blockchain_.csprojAssemblyReference.cache
+C:\Users\Simi\source\repos\blockchain_\blockchain_\obj\Debug\netcoreapp2.0\blockchain_.csproj.CoreCompileInputs.cache
+C:\Users\Simi\source\repos\blockchain_\blockchain_\obj\Debug\netcoreapp2.0\blockchain_.AssemblyInfoInputs.cache
+C:\Users\Simi\source\repos\blockchain_\blockchain_\obj\Debug\netcoreapp2.0\blockchain_.AssemblyInfo.cs
+C:\Users\Simi\source\repos\blockchain_\blockchain_\obj\Debug\netcoreapp2.0\blockchain_.dll
+C:\Users\Simi\source\repos\blockchain_\blockchain_\obj\Debug\netcoreapp2.0\blockchain_.pdb
